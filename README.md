@@ -1,1 +1,7 @@
-# Python-ML-for-Financial-Analysis
+This project is divided into three main parts covering basic python, financial analysis in Python, and lastly AI/ML application in Finance Industry.
+
+[**Part 1**](https://github.com/algocompretto/Python-ML-for-Financial-Analysis/tree/main/Part%201.%20Python%20Programming%20Fundamentals) is about Python Programming Fundamentals - covering concepts such as: data types, variables assignments, loops, conditional statements, functions and how to work with files. This will give a great overview on key Python libraries such as Numpy, Pandas Matplotlib, Seaborn, Plotly and Bokeh.  
+
+[**Part 2**](https://github.com/algocompretto/Python-ML-for-Financial-Analysis/tree/main/Part%202.%20Financial%20Analysis%20in%20Python) covers Python for financial analysis. We will cover key financial concepts such as calculating daily portfolio returns, risk and Sharpe ratio.  
+
+ [**Part 3**](https://github.com/algocompretto/Python-ML-for-Financial-Analysis/tree/main/Part%203.%20AI%20and%20ML%20in%20Finance) covers practical projects on AI/ML applications in Finance. We will cover application of Deep Neural Networks such as Long Short Term Memory (LSTM) networks to perform stock price predictions. In addition, we will cover unsupervised machine learning strategies such as K-Means Clustering and Principal Components Analysis to perform Baking Customer Segmentation or Clustering.
