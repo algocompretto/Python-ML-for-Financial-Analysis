@@ -1,3 +1,0 @@
-I am learning python now!
-It is super fun to learn Python programming 
-I am learning how to handle files in python!
