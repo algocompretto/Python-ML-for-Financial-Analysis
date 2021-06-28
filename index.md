@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Machine Learning in Finances
 
-You can use the [editor on GitHub](https://github.com/algocompretto/Python-ML-in-Finances/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Customer Segmentation
+Customer segmentation is the subdivision of a market into discrete customer groups that share similar characteristics. It can be a powerful tool to identify unsatisfied customer needs. Mostly, customer is segmented in four greater groups:
+1. Demographic information, such as gender, age, marital status, income, education and occupation.
+2. Geographical information, which differs depending on the scope of the company. It can be specific towns or countries, or a customer's city, state and country of residence.
+3. Psychographics, such as social class, lifestyle and personality traits.
+4. Behavioral data, such as spending and consuming habits, product/services usage, and desired benefits.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Our motivation in this customer segmentation process is to take advantage of this to:
+- Determine appropriate product pricing
+- Develop customized marketing campaigns
+- Design an optimal distribution strategy
+- Choose specific product features for deployment
+- Prioritize new product development efforts
 
-### Markdown
+### What is K-Means algorithm?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### The Elbow Method
 
-```markdown
-Syntax highlighted code block
+### Autoencoding
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/algocompretto/Python-ML-in-Finances/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Principal Component Analysis (PCA)
