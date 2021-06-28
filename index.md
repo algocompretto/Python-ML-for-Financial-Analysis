@@ -30,7 +30,10 @@ The Elbow Method shows us what can be the ideal number of clusters based on the 
 ![Elbow Method graphic](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.geeksforgeeks.org%2Fwp-content%2Fuploads%2F20190606105746%2Finertia.png&f=1&nofb=1)
 
 ### Autoencoding
-
+Autoencoders are some kind of neural network that is used to learn feature representation in an unsupervised manner. It uses the same data for input and output. As shown in the figure, by adding a bottleneck in the network, it forces the network to create a compressed version of the input data, which is how it works, meanwhile, the decoder reconstructs the original input:
+![Autoencoder](https://miro.medium.com/max/3110/0*uq2_ZipB9TqI9G_k)
 
 ### Principal Component Analysis (PCA)
+Simply PCA is a dimensionality reduction technique that transforms the columns of a dataset into a set features called Principal Components. The objective is to represent the information in each column with the minimum columns possible.
 
+![Principal Component Analysis](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F4.bp.blogspot.com%2F-8yL0y5A5P2c%2FXHC_XVv4yaI%2FAAAAAAAAAPw%2Fr0IMUzkCFmocpVWVXdAv-X8OSZEm1w4FwCLcBGAs%2Fs1600%2Ffig_pca_illu3d.png&f=1&nofb=1)
