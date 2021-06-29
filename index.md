@@ -37,3 +37,15 @@ Autoencoders are some kind of neural network that is used to learn feature repre
 Simply PCA is a dimensionality reduction technique that transforms the columns of a dataset into a set features called Principal Components. The objective is to represent the information in each column with the minimum columns possible.
 
 ![Principal Component Analysis](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F4.bp.blogspot.com%2F-8yL0y5A5P2c%2FXHC_XVv4yaI%2FAAAAAAAAAPw%2Fr0IMUzkCFmocpVWVXdAv-X8OSZEm1w4FwCLcBGAs%2Fs1600%2Ffig_pca_illu3d.png&f=1&nofb=1)
+
+## Long short-term memory neural networks
+In this project, the main goal was to take advantage of recurrent neural networks to recognize patterns in stock market time series. What differentiates Recurrent Neural Networks and Long Short-Term Memory is that they consider time and sequence into account, they have a temporal dimension.
+
+### What are LSTM networks?
+We, humans, don't start thinking from scratch - every thought is based on previous knowledge, thoughts have persistence. Traditional neural networks don't do this, this is way recurrent neural networks are good! They address this problem by looping inside them, allowing the information to persist. However LSTM networks are a special kind of RNN, capable of learning long-term dependecies, they are explicitly designed to avoid the problem, remembering information for long periods of time is practically their default behavior. Inside them, it is better explained with a gif.
+![LSTM Networks inside](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1600%2F1*VOXRGhOShoWWks6ouoDN3Q.gif&f=1&nofb=1)
+
+### Ridge Linear Regression Model
+Ridge regression is a model tuning method that is used to analyse any data that suffers from multicollinearity. This method performs L2 regularization, when we have multicollinearity issues, least-squares are unbiased, and variances are large, this result in poor predictions. For ridge regression, a lambda term is aggregated in the cost function, lambda is denoted by alpha. So, controlling alpha, we alter the penalty term. Higher values of alpha, indicates a bigger penalty and therefore the magnitude of coefficients is reduced. It shrinks the parameters to prevent multicollinearity, in doing this, it reduces the model complexity.  
+*The first step in building a Ridge Linear Regression model, is to standardize the variables!*
+![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fraw.githubusercontent.com%2Fwu-wenxiang%2FMedia-WebLink%2Fmaster%2Fqiniu%2Fcc248ddcba014c3cb4a2bb4cf75eb863-polynomial-ridge-regression.gif&f=1&nofb=1)
